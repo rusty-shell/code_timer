@@ -13,5 +13,5 @@
 /// ```
     
 pub fn test_call(){
-    println!("test_call was called");
+    println!("test_call was called v0.1.1");
 }
